@@ -1,6 +1,4 @@
-## Hi there 👋
-
-📌 Moein Rumee
+## Moein Rumee
 
 Software Engineer | AI & Fullstack Enthusiast | Building LLM-powered Tools
 
