@@ -9,6 +9,7 @@ Software Engineer | AI & Fullstack Enthusiast | Building LLM-powered Tools
 🔹 Exploring LLMs, Data Analytics, and Scalable Web Apps
 
 
+
 🚀 Tech Stack
 
 Languages: Python, Java, C++, JavaScript
@@ -20,6 +21,7 @@ AI & Data: OpenAI API, TensorFlow, Pandas, SQL
 Tools & Platforms: Git, Docker, Render, Hugging Face
 
 
+
 💻 Featured Projects
 
 ✔ AI Resume Analyzer – LLM-powered resume feedback app (in progress)
@@ -27,6 +29,7 @@ Tools & Platforms: Git, Docker, Render, Hugging Face
 ✔ Task Manager with AI Suggestions – Fullstack productivity app (coming soon)
 
 ✔ Business Insights Dashboard – Interactive analytics dashboard with real datasets
+
 
 
 📫 Let’s Connect
