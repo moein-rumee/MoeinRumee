@@ -8,6 +8,7 @@ Software Engineer | AI & Fullstack Enthusiast | Building LLM-powered Tools
 
 🔹 Exploring LLMs, Data Analytics, and Scalable Web Apps
 
+
 🚀 Tech Stack
 
 Languages: Python, Java, C++, JavaScript
@@ -18,6 +19,7 @@ AI & Data: OpenAI API, TensorFlow, Pandas, SQL
 
 Tools & Platforms: Git, Docker, Render, Hugging Face
 
+
 💻 Featured Projects
 
 ✔ AI Resume Analyzer – LLM-powered resume feedback app (in progress)
@@ -26,6 +28,7 @@ Tools & Platforms: Git, Docker, Render, Hugging Face
 
 ✔ Business Insights Dashboard – Interactive analytics dashboard with real datasets
 
+
 📫 Let’s Connect
 
 Portfolio: [(coming soon)]
@@ -33,6 +36,7 @@ Portfolio: [(coming soon)]
 LinkedIn: [https://www.linkedin.com/in/moein-rumee/]
 
 Email: rumeemoein@gmail.com
+
 
 ⭐ Fun Fact
 
