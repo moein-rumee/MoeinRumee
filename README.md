@@ -1,6 +1,6 @@
 ## Rumee Moein
 Milpitas, CA | (408)-373-0002 | rumeemoein@gmail.com
-LinkedIn: linkedin.com/in/moein-rumee/ | GitHub: github.com/MoeinRumee
+LinkedIn: linkedin.com/in/moein-rumee/ | GitHub: github.com/moein-rumee
 
 
 
